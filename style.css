@@ -1,10 +1,10 @@
 body{
    position: relative;
    margin: 0;
-   background-color: black;
+   
 }
 .BackBox{
-  
+  background-color: black;
   display: block;
   height: 1350px;
   width: 100%;
