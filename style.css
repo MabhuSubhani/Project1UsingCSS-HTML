@@ -1,0 +1,99 @@
+body{
+   position: relative;
+   margin: 0;
+}
+.BackBox{
+  background-color: black;
+  display: block;
+  height: 1350px;
+  width: 100%;
+  position: absolute;
+}
+.mainbox{
+  background-color:#36486b;
+  display: inline-block;
+  height: 300px;
+  width:900px;
+  position: absolute;
+  top: 500px;
+  left:  260px;
+}
+.rightbox{
+  background-color: purple;
+  position: absolute;
+  height: 300px;
+  width:450px;
+  left:450px;
+
+
+}
+span{
+  color: #ffcc5c;
+}
+img{
+  height: 300px;
+  width:450px;
+  filter: opacity(50%);
+}
+.leftbox{
+
+  position: absolute;
+  height: 300px;
+  width: 450px;
+  text-align: left;
+  padding: 5px;
+  font-size: small;
+}
+.top{
+  position: absolute;
+  left: 25px;
+  right: 25px;
+  font-family: 'Poppins', sans-serif;
+      font-size: xx-large;
+}
+.middle{
+  position: absolute;
+  top: 135px;
+  left: 25px;
+  right:100px;
+
+    font-family: 'EB Garamond', serif;
+    margin-top: 0;
+}
+.sub1{
+  position:absolute;
+  width:  50px;
+  height: 50px;
+  top: 200px;
+  left: 25px;
+
+}
+.st1{
+  font-family: 'Poppins', sans-serif;
+  width: 25px;
+  margin-bottom: 0;
+}
+.st2{
+    margin-top: 0;
+    font-family: 'EB Garamond', serif;
+}
+.sub2{
+  position:absolute;
+  width:  50px;
+  height: 50px;
+  top: 200px;
+  left: 165px;
+}
+.sub3{
+  position:absolute;
+  width:  50px;
+  height: 50px;
+  top: 200px;
+  left: 300px;
+}
+h1{
+  color: white;
+}
+p{
+  color: grey;
+}
